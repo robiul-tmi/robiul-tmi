@@ -5,7 +5,7 @@
 ---
 <br/>
 
-💬 Ask me about web technology<br>🖊️ Love to write code <br/> 💻 Most used line of code `console.log("hello world")`<br/>📧 How to reach me: therobiulislam12@gmail.com.
+💬 Ask me about web technology<br>🖊️ Love to write code <br/> 💻 Most used line of code `console.log("hello world")`
 
 
 # 💫 About Me:
