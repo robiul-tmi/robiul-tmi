@@ -1,16 +1,18 @@
-## Hi there 👋
+Hello 👋,
+I'm a WordPress Plugin Developer Based In Bangladesh.
 
-<!--
-**robiul-tmi/robiul-tmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👑 I am WordPress Plugin Developer
+🌱 I’m currently learning WordPress and Next JS
+💬 Ask me about web technology
+🖊️ Love to write code
+💻 Most used line of code console.log("hello world")
+📧 How to reach me: therobiulislam12@gmail.com.
 
-Here are some ideas to get you started:
+💫 About Me:
+I am Robiul Islam, a passionate WordPress Plugin Developer and Elementor expert with over 3 years of hands-on experience, specializing in building custom solutions that elevate websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey into web development began with a fascination for creating dynamic, user-friendly interfaces, and has since grown into a deep expertise in both backend and frontend development.
+
+With two years of remote work experience for a Malaysian company, I am committed to making the web more accessible and open. I am a PHP lover, an Open-Source enthusiast, and a proud contributor to the Bengali WordPress community.
+
+💻 Skills & Experiance:
