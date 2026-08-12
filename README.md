@@ -26,15 +26,7 @@ With two years of remote work experience for a Malaysian company, I am committed
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-# 🅦 WordPress Activity
-[![Robiul's WordPress Activity](https://cardpress.us/card?username=robiulrslam12&badges=true)](https://profiles.wordpress.org/robiulrslam12/)
 
 # ☕ Connect with me!: 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/wgd06) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__robiul__islam) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/therobiulislam12/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:therobiulislam12@gmail.com)
 
-# 👨‍💻 Numbers:
-![](https://github-readme-stats.vercel.app/api?username=therobiulislam12&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=therobiulislam12&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=therobiulislam12&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=therobiulislam12&icon=0&color=0)](https://visitcount.itsvg.in)
